@@ -19,6 +19,10 @@ body {
     z-index: 10;
 }
 
+.carousel-caption-monaka {
+    color: black;
+}
+
 /* Declare heights because of positioning of img element */
 .carousel-item {
     height: 32rem;
